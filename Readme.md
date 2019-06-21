@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to manipulate the control inside DataItemTemplate when a row is selected
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3949/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to manipulate the control inside DataItemTemplate when a row is selected.</p><p>1) Define the<strong> ASPxSpinEdit </strong>editor inside a column's DataItemTemplate and bind the editor with a corresponding column value;<br />
